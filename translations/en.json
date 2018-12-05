@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Iframe Custom Icon App",
-    "short_description": "Embed any website in your Zendesk",
+    "short_description": "Embed websites in your Zendesk",
     "long_description": "An *iframe* is an HTML element that lets you nest one web page in another web page. The Zendesk Iframe app lets your agents quickly navigate to an external website and then return to their tickets without interrupting their workflow. Your agents can look up any external site and reference information such as order details or data on another system.\n\nThe Iframe app presents the external source as an iframe in your Zendesk Support instance. Your agents can access this page by clicking the Iframe app icon.\n\nThe Iframe app supports websites that include the [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk). Check out [Iframes in Apps](https://developer.zendesk.com/apps/docs/core-api/client_api) to learn more.",
     "installation_instructions": "Configure the app as follows, then click **Install**:\n\n* Iframe URL: Link to the page you want to display when agents click the Iframe app icon."
   }
