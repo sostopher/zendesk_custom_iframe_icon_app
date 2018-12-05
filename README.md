@@ -1,12 +1,8 @@
-# App name
-
-Iframe Icon App
-
-### Description
+# Iframe Icon App
 
 Use this app to use a custom icon in your Zendesk Nav Bar.
 
-# Steps to create a custom iframe icon app
+### Steps to create a custom iframe icon app
 
 * Download/Clone this repo
 * Replace `logo.svg` in the `assets` folder will a SVG that you want to serve as the app icon
