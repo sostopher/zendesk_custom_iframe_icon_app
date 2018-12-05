@@ -11,7 +11,4 @@ Use this app to use a custom icon in your Zendesk Nav Bar.
 * Set the iframe URL in the `iframeURL` in the settings
 * Done!
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+Please submit bug reports [As an Issue](https://github.com/sostopher/zendesk_custom_iframe_icon_app/issues). Pull requests are welcome.
